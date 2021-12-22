@@ -1,5 +1,5 @@
 ## AI And the Future of Medicine
-CERVICAL CANCER AND ARTIFICAL INTELIGENCY 
+### CERVICAL CANCER AND ARTIFICAL INTELIGENCY 
 
 A research team led by investigators from the National Institutes of Health and Global Good has developed a computer algorithm that can analyze digital images of a woman’s cervix and accurately identify precancerous changes that require medical attention. This artificial intelligence (AI) approach, called automated visual evaluation, has the potential to revolutionize cervical cancer screening, particularly in low-resource settings.
 
