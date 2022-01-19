@@ -1,4 +1,4 @@
-![neuro-ai](https://user-images.githubusercontent.com/94965887/147374554-efa9fb85-6df1-4bab-ae3e-cd4fef9e0248.jpeg)
+![neuro-onc-1600](https://user-images.githubusercontent.com/94965887/150155853-415d95d0-1591-47d7-a30d-600874ee951c.jpg)
 
 ## Abstract
 
