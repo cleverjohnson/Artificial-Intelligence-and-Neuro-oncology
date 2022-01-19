@@ -22,3 +22,5 @@ Most research in neuro-oncology has focused on diffuse gliomas, World Health Org
 
 The overarching goal of this line of research is to improve the outcomes of patients affected by CNS neoplasms through improvements in diagnostic and treatment methods. AI tools that combine clinical, radiomic, and genomic information into predictive models hold substantial promise for guiding and monitoring personalized therapeutics. However, many challenges exist and much work needs to be done to bring the promise of this field into fruition. Nevertheless, radiologic practice will substantially change as AI technology continues to improve to be able to enhance radiologists’ accuracy and efficiency. It is crucial for the future radiologist to understand and appropriately use these powerful tools as they become more integrated into everyday clinical practice in the coming years.
 #### References 
+
+Ganapathy K, Abdul SS, Nursetyo AA. Artificial intelligence in neurosciences: A clinician's perspective. Neurol India 2018;66:934-9
