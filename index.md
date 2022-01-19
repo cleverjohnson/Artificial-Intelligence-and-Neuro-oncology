@@ -4,7 +4,8 @@
 
 ## Abstract
 
-Artificial Intelligence (A.I) is a wide-ranging branch of computer science concerned with building smart machines that can perform tasks that typically require human intelligence. Currently A.I. includes systems that automatically customize hardware to user requirements and computerized medical diagnosticians. In the field of neuro-oncology, AI is known to offer support to the challenges in the field of neurology. The best example is of brain tumour assessment and diagnosis. The present times are witness to artificial intelligence (AI) and machine learning programs competing to outperform the seasoned physician in arriving at a differential diagnosis. We discuss here the possible roles of AI in neurology.
+There is no doubt that in the coming decades, deployment of Artificial Intellgence (AI) will play a very big role in the healthcare and neurosciences. In the aspect of neurosurgery, Artificial Intelligence is so vital since neurosurgery is one of the most technically demanding medical proffesions that vindicate a high level of expertise and AI can provide a great compliment to the neurosurgeon skills so as to provide the best interventional and non-interventional care for patients by enhancing diagonistic and prognostic outcomes in clinical treatment and aid the neurosurgeons with decision making during the surgical interventions to improve patients outcomes. Additionally, AI plays a pivotal role in producing, procesing and storing of clinical and experimental information. The use of Artificial Intelligence in neurosurgery can cause a reduction in the costs associated with surgical care and prodive relatively high quality healthcare to a several patients. This blog post will review the practical utility of AI in neurosciences from a clinical perspective. AI requires a thorough and systematic evaluation, prior to evaluation in the health sector.
+
 
 ### Introduction
 
