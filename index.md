@@ -26,3 +26,9 @@ The overarching goal of this line of research is to improve the outcomes of pati
 
 Ganapathy K, Abdul SS, Nursetyo AA. Artificial intelligence in neurosciences: A clinician's perspective. Neurol India [serial online] 2018 [cited 2022 Jan 19];66:934-9. Available from: https://www.neurologyindia.com/text.asp?2018/66/4/934/236971
 
+Ganapathy K, Abdul SS, Nursetyo AA. Artificial intelligence in neurosciences: A clinician's perspective. Neurol India [serial online] 2018 [cited 2022 Jan 19];66:934-9. Available from: https://www.neurologyindia.com/text.asp?2018/66/4/934/236971
+
+Next-generation business models for artificial intelligence start-ups in the healthcare industry	
+Ignat Kulkov
+International Journal of Entrepreneurial Behavior & Research. 2021; ahead-of-p(ahead-of-p)
+[Pubmed] | [DOI] https://www.neurologyindia.com/article.asp?issn=0028-3886;year=2018;volume=66;issue=4;spage=934;epage=939;aulast=Ganapathy#ref34
