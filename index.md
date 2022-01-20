@@ -2,7 +2,7 @@
 
 ![neuro-onc-1600](https://user-images.githubusercontent.com/94965887/150155853-415d95d0-1591-47d7-a30d-600874ee951c.jpg)
 
-## Abstract
+### Abstract
 
 There is no doubt that in the coming decades, deployment of Artificial Intellgence (AI) will play a very big role in the healthcare and neurosciences. In the aspect of neurosurgery, Artificial Intelligence is so vital since neurosurgery is one of the most technically demanding medical proffesions that vindicate a high level of expertise and AI can provide a great compliment to the neurosurgeon skills so as to provide the best interventional and non-interventional care for patients by enhancing diagonistic and prognostic outcomes in clinical treatment and aid the neurosurgeons with decision making during the surgical interventions to improve patients outcomes. Additionally, AI plays a pivotal role in producing, procesing and storing of clinical and experimental information. The use of Artificial Intelligence in neurosurgery can cause a reduction in the costs associated with surgical care and prodive relatively high quality healthcare to a several patients. This blog post will review the practical utility of AI in neurosciences from a clinical perspective. AI requires a thorough and systematic evaluation, prior to evaluation in the health sector.
 
@@ -12,7 +12,7 @@ There is no doubt that in the coming decades, deployment of Artificial Intellgen
 The complexity of data used in clinical neurology is only likely to increase in the coming years as health records are digitalised and ‘data heavy’ technologies such as whole-genome sequencing become incorporated into routine clinical practice. Recent advances in artificial intelligence and the development of sophisticated machine learning algorithms offer a potential means to use these data more efficiently and effectively. However, a basic understanding of how these machine learning algorithms work is essential to help interpret and critically appraise their outputs, and so know what to believe.To quote Hippocrates, “Life is short, the art long, opportunity fleeting, experience treacherous and judgment difficult.” Clinical judgment has been the proverbial Sword of Damocles hanging over a neurologist's head since time immemorial. In a recent study, the diagnostic accuracy of a doctor was considered to be far superior when pitted against artificial intelligence (AI) algorithms, with a caveat that doctors also made incorrect diagnosis in 15% of cases.
 Machine learning which is a part of AI, is a branch of data science which enables computers to learn from existind training data without explicit programming to make specualtions on new data points. A subclass of machine learning that is the deep learning bases on neural networks, containing a large number of layers, made possible due to recent computational advancements. In the radiomics research which focuses on medical imaging data as quantitative imaging biomarkers.The major aim of AI based research in neuro-oncologic imaging is to better understand the advanced manifestations of heterogeneous central nervous system (CNS) neoplasms in hopes of improving patient outcomes.
 
-![images_medium_radiol 2018181928 fig1](https://user-images.githubusercontent.com/94965887/150436168-f31b206a-6671-4ce5-98bd-556193da372d.gif)
+                     ![images_medium_radiol 2018181928 fig1](https://user-images.githubusercontent.com/94965887/150436168-f31b206a-6671-4ce5-98bd-556193da372d.gif)
 
 Figure 1: Diagram shows overview of terms encompassed by artificial intelligence and their nested relationships with each other.
 
@@ -37,3 +37,5 @@ Next-generation business models for artificial intelligence start-ups in the hea
 Ignat Kulkov
 International Journal of Entrepreneurial Behavior & Research. 2021; ahead-of-p(ahead-of-p)
 [Pubmed] | [DOI] https://www.neurologyindia.com/article.asp?issn=0028-3886;year=2018;volume=66;issue=4;spage=934;epage=939;aulast=Ganapathy#ref34
+
+From the Department of Radiology, Division of Neuroradiology, Perelman School of Medicine at the University of Pennsylvania, 3400 Spruce St, Philadelphia, PA 19104 (J.D.R., C.D., S.M.); Department of Radiology & Biomedical Imaging, University of California, San Francisco, San Francisco, Calif (A.M.R.); and Department of Diagnostic Medicine, Dell Medical School, University of Texas, Austin, Tex (R.N.B.). https://pubs.rsna.org/doi/full/10.1148/radiol.2018181928#:~:text=%E2%96%A0%20Artificial%20intelligence%20%28AI%29%20algorithms%20are%20driving%20neuro-oncology,underlying%20cellular%20and%20molecular%20mechanisms%20of%20cancer%20biology.
