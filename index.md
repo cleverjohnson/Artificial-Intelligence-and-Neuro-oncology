@@ -37,11 +37,11 @@ https://user-images.githubusercontent.com/94965887/150442389-08b8d8d2-7825-460f-
 ### Conclusion
 
 The aim of this examination is to work on the results of patients impacted by Central Nervous System neoplasms through upgrades in indicative and treatment techniques. Man-made brainpower apparatuses that join clinical, radiomic, and genomic data into prescient models hold significant guarantees for directing and observing customized therapys. Be that as it may, various difficulties exist and much work is expected to be done to bring the guarantee of this field into fulfillment. In any case, radiologic practice will significantly change as Artificial Intelligence advancements keep on improving to have the option to upgrade radiologists' exactness and productivity. It is pivotal for the future radiologist to comprehend and fittingly utilize these amazing assets as they become more incorporated into regular clinical practice before very long.
+
 #### References 
 
-Ganapathy K, Abdul SS, Nursetyo AA. Artificial intelligence in neurosciences: A clinician's perspective. Neurol India [serial online] 2018 [cited 2022 Jan 19];66:934-9. Available from: https://www.neurologyindia.com/text.asp?2018/66/4/934/236971
+Ganapathy K, Abdul SS, Nursetyo AA. (2018). Artificial intelligence in neurosciences, A clinician's perspective. Retrieved 13, 2022  from https://www.neurologyindia.com/text.asp?2018/66/4/934/236971
 
-Ganapathy K, Abdul SS, Nursetyo AA. Artificial intelligence in neurosciences: A clinician's perspective. Neurol India [serial online] 2018 [cited 2022 Jan 19];66:934-9. Available from: https://www.neurologyindia.com/text.asp?2018/66/4/934/236971
 
 Next-generation business models for artificial intelligence start-ups in the healthcare industry	
 Ignat Kulkov
